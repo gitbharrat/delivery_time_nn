@@ -17,6 +17,7 @@ dependencies:
   - py4j
   - jedi-language-server
   - pip
+  - openjdk
 
   - pip:
       - hyperopt
