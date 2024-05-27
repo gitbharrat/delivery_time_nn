@@ -1,8 +1,8 @@
-# **🚀 Delivery Time Estimation with Neural Networks**
-
-<a href="https://studiolab.sagemaker.aws/import/github/org/gitbharrat/delivery_time_nn/notebook/delivery_time_estimation.ipynb">
+<a href="https://studiolab.sagemaker.aws/import/github/org/gitbharrat/delivery_time_nn/tree/main/notebook/delivery_time_estimation.ipynb">
   <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
 </a>
+
+# **🚀 Delivery Time Estimation with Neural Networks**
 
 > **⚠️ Warning:** This repository is currently a work in progress. Contributions are welcome, but please note that the project is still under development and subject to changes.
 
