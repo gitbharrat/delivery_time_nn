@@ -1,5 +1,9 @@
 # **🚀 Delivery Time Estimation with Neural Networks**
 
+<a href="https://studiolab.sagemaker.aws/import/github/org/gitbharrat/delivery_time_nn/notebook/delivery_time_estimation.ipynb">
+  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
+</a>
+
 > **⚠️ Warning:** This repository is currently a work in progress. Contributions are welcome, but please note that the project is still under development and subject to changes.
 
 This project involves developing a delivery time estimation model for a leading intra-city logistics marketplace in India. The company aims to enhance the lives of over 150,000 driver-partners by providing consistent earnings and independence. Currently, the company has serviced over 5 million customers.
