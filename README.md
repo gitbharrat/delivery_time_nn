@@ -49,6 +49,7 @@ Each row in this dataset corresponds to a unique delivery. Each column represent
    - Train the neural network for the required number of epochs 🏋️
    - Plot the losses and check the accuracy of the model 📉
    - Evaluate using various metrics like MSE, RMSE, and MAE 📐
+   - Use MLflow for model versioning: Track experiments and model versions using MLflow to maintain a record of different models and their performance over time.
 
 #### **⚙️ Hyperparameter Tuning using Hyperopt**
    - Experiment with different configurations, activation functions, optimizers, and other hyperparameters using Bayesian optimization with Hyperopt ⚙️
