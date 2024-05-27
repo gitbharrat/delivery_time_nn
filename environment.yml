@@ -7,14 +7,16 @@ dependencies:
   - pandas
   - numpy
   - scikit-learn
+  - numba
   - matplotlib
   - seaborn
   - plotly
   - pytorch
-  - pyspark
-  - cudatoolkit
-  - pip
   - ipykernel
+  - pyspark
+  - py4j
+  - jedi-language-server
+  - pip
 
   - pip:
       - hyperopt
