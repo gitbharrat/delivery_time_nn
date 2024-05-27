@@ -1,4 +1,4 @@
-<a href="https://studiolab.sagemaker.aws/import/github/org/gitbharrat/delivery_time_nn/tree/main/notebook/delivery_time_estimation.ipynb">
+<a href="https://studiolab.sagemaker.aws/import/github/gitbharrat/delivery_time_nn/tree/main/notebook/delivery_time_estimation.ipynb">
   <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
 </a>
 
