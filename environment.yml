@@ -19,7 +19,10 @@ dependencies:
   - pip
   - openjdk
 
+
   - pip:
       - hyperopt
       - lime
       - mlflow
+      - nbformat
+      
