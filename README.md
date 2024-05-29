@@ -10,7 +10,7 @@ This project involves developing a delivery time estimation model for a leading 
 
 The company collaborates with various restaurants to deliver items directly to customers. Our objective is to estimate delivery times based on features such as order details, restaurant category, and available delivery partners.
 
-### Dataset
+### **Dataset**
 
 Each row in this dataset corresponds to a unique delivery. Each column represents a feature, explained below:
 
@@ -30,7 +30,7 @@ Each row in this dataset corresponds to a unique delivery. Each column represent
 | **total_busy_partners** | Number of delivery partners attending to other tasks                                            |
 | **total_outstanding_orders** | Total number of orders to be fulfilled at the moment                                       |
 
-## Process
+## **Process**
 
 #### **🔍 Import the Data and Understand the Structure using PySpark:**
    - Perform exploratory analysis to check the structure and characteristics of the dataset.
@@ -42,7 +42,7 @@ Each row in this dataset corresponds to a unique delivery. Each column represent
    - Handle null values 🛠️
    - Encode categorical columns 🔄
 
-#### **📊 Data Visualization and Cleaning using Plotly:**
+#### **📊 Data Visualization and Cleaning:**
    - Visualize various columns for better understanding (e.g., countplots, scatterplots) 📊
    - Check for outliers 🔍
    - Remove outliers using appropriate methods 🚫
