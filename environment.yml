@@ -25,4 +25,4 @@ dependencies:
       - lime
       - mlflow
       - nbformat
-      
+      - kaleido
