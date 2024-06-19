@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Bharat Khanna/OneDrive/Scaler/Projects/delivery_estimation_nn/delivery_time_nn/notebook/../mlruns/773925714302722185/49fb39feea404a9b9b1b850a68214cb4/artifacts
+end_time: 1718801945218
+entry_point_name: ''
+experiment_id: '773925714302722185'
+lifecycle_stage: active
+run_id: 49fb39feea404a9b9b1b850a68214cb4
+run_name: upset-quail-421
+run_uuid: 49fb39feea404a9b9b1b850a68214cb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718801826794
+status: 3
+tags: []
+user_id: Bharat Khanna

@@ -2,6 +2,8 @@ name: delivery_time_torch
 channels:
   - conda-forge
   - defaults
+  - pytorch
+  - nvidia
 dependencies:
   - python=3.9
   - pandas
@@ -11,10 +13,11 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
-  - pytorch
+  - pytorch=2.3.1
+  - pytorch-cuda=12.1
   - ipykernel
   - pyspark
-  - py4j
+  - py4j      
   - jedi-language-server
   - pip
   - openjdk
@@ -27,3 +30,4 @@ dependencies:
       - nbformat
       - kaleido
       - torchsummary
+      - jupyterlab
