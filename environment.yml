@@ -26,4 +26,4 @@ dependencies:
       - mlflow
       - nbformat
       - kaleido
-      - jupyterlab_code_formatter
+      - torchsummary
