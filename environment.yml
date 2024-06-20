@@ -21,6 +21,7 @@ dependencies:
   - pip
   - openjdk
   - nodejs
+  - pytorch-cuda=12.1
 
   - pip:
       - hyperopt
@@ -34,4 +35,3 @@ dependencies:
       - jupyterlab-lsp
       - black 
       - isort
-      - torch==2.3.1+cu121
