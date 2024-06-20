@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/delivery_time_nn.iml" filepath="$PROJECT_DIR$/.idea/delivery_time_nn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlruns/.idea/mlruns.iml" filepath="$PROJECT_DIR$/mlruns/.idea/mlruns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/validation/.idea/validation.iml" filepath="$PROJECT_DIR$/data/validation/.idea/validation.iml" />
+    </modules>
+  </component>
+</project>
