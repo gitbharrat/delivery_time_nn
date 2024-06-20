@@ -30,3 +30,8 @@ dependencies:
       - kaleido
       - torchsummary
       - jupyterlab
+      - jupyterlab-git
+      - jupyterlab-lsp
+      - black 
+      - isort
+      - torch==2.3.1+cu121
