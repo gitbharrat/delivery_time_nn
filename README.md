@@ -4,8 +4,6 @@
 
 # **🚀 Delivery Time Estimation with Neural Networks**
 
-> **⚠️ Warning:** This repository is currently a work in progress. Contributions are welcome, but please note that the project is still under development and subject to changes.
-
 This project involves developing a delivery time estimation model for a leading intra-city logistics marketplace in India. The company aims to enhance the lives of over 150,000 driver-partners by providing consistent earnings and independence. Currently, the company has serviced over 5 million customers.
 
 The company collaborates with various restaurants to deliver items directly to customers. Our objective is to estimate delivery times based on features such as order details, restaurant category, and available delivery partners.
